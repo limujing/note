@@ -1,0 +1,8 @@
+chorme和FF边框问题
+定义元素display：block；
+设置高度
+行内元素注意HTML代码中的空格
+IE6换行会多空出一格 那么给元素设定宽高和overflow 浮动
+数据显示可以的话不要用table标签
+
+http://www.pibullion.cn/prestigegroup/

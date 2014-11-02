@@ -1,0 +1,16 @@
+外汇与贵金属	http://210.56.58.155:9999/bj2.php
+股票指数（日）	http://210.56.58.155:9999/bj4.php 
+股票指数（夜）	http://210.56.58.155:9999/bj5.php 
+曲线图		http://www.24k.hk/public/plot/Data.xml
+伦敦金		http://m.24k.hk/public/datas/24k_goldprice_histroy.xml
+伦敦银		http://m.24k.hk/public/datas/24k_silverprice_histroy.xml
+纽约 		http://m.24k.hk/public/datas/24k_oilprice_histroy.xml
+美元指数	http://m.24k.hk/public/datas/24k_usdprice_histroy.xml
+财经日历	http://www.dailyfx.com.hk/xml/calendar.xml
+4006762425 企业QQ
+
+
+
+
+
+    

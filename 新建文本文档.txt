@@ -1,0 +1,26 @@
+<!-- bottom_fixed -->
+<script type="text/javascript" src="http://www.yucai33.com/js/bottom_fixed.js"></script> 
+<script type="text/javascript">
+$(function(){
+    bottom_fixed("http://www.yucai33.com/page/sqdl/","http://www.yucai33.com/page/mnjy/","http://www.yucai33.com/test/","tel://4006601514/","tencent://message/?uin=1961265538&Site=&Menu=yes");
+})
+</script> 
+
+
+<script type="text/javascript">
+//弹出层调用
+function popTips(){
+    showTipsWindown("天誉国际黄金代理网", 'displayBox', 595, 493);
+    $("#isread").attr("checked", false);
+}
+$(document).ready(function(){
+    if($('#dispalyBox')==null){
+        return ;
+    }else{
+        popTips();
+    }
+});
+</script> 
+
+
+<input class="submit" name="submit" type="submit" value="同意以下协议并提交" />
